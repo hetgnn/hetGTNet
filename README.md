@@ -1,5 +1,5 @@
 # Heterogeneous Graph Tree Neural Networks
-This repository contains the codes and data to replicate the experimental results in the manuscript Heterogeneous Graph Tree Networks.
+This repository contains the code and data to replicate the experimental results in the manuscript Heterogeneous Graph Tree Networks.
 
 ## Datasets for test
 ACM, IMDB, and DBLP
